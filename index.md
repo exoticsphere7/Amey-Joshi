@@ -4,13 +4,7 @@
 ### Markdown
 
 
-.fstPage {
-            background-image:url("Seattle.jpg");
-            /*background-color: lightgray;*/
-            height: 700px;
-            width:100%;
-            background-size:cover;
-        }
+![IMG_20191026_090226](https://user-images.githubusercontent.com/79046404/130784525-6ed07e24-ac74-460e-a2d9-6625f605dcd1.jpg)
 
 
 # Header 1
