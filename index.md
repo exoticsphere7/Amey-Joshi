@@ -15,7 +15,7 @@ Hi, I am a 5th year student at IISER pune. Specializing in mathematics. I find g
 ## 1. Study of Lie Groupoids-
  This was done under supervision of [Prof.S.K.Roushon](http://www.math.tifr.res.in/~roushon/cv.html) as a part of Tifr-VSRP 2020 program. We studied various papers of I. Moerdijk on Lie groupoids and orbifolds. The aim of this project was to study the category of Lie groupoids and see their connections to the classical algebraic topology and manifold theory. The project report can be found [here](https://github.com/exoticsphere7/Amey-Joshi/files/7047118/Lie_Groupoids.pdf)
 
- ##  2. Fibre Bundles and Milnor's Exotic sphere-
+ ## 2. Fibre Bundles and Milnor's Exotic sphere-
  This project was done under the supervision of [Prof. Mainak Poddar](https://sites.google.com/view/mainakpoddar) in the summer 2020. In the begining I studied the theory of characteristic classes from the books- [Vector Bundles and K-theory](https://pi.math.cornell.edu/~hatcher/VBKT/VBpage.html) and [Charcteristic classes](https://www.google.co.in/books/edition/Characteristic_Classes/5zQ9AFk1i4EC?hl=en&gbpv=0). Then in the end I read the paper of Prof. John Milnor on the exotic smooth 7-sphere.
 
 
